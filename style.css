@@ -1,0 +1,15 @@
+*{
+     margin:0
+}
+
+
+.firstStep{
+     display:flex;
+     justify-content: center;
+     font-size: 30px;
+     background-color: #a27af2;
+     color:#ffff;
+     padding: 20px;
+
+
+}
